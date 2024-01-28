@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">👨‍💻 Contact me:</h2>
+<h3 align="left">👨‍💻 Contact me:</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">📃 Programming languages that I've been studying</h2>
+<h3 align="left">📃 Programming languages that I've been studying</h3>
 
 ###
 
@@ -42,18 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/care/care/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/care">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=care&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
